@@ -1,4 +1,9 @@
 import recordFace
+import recordHolistic
 
 if __name__ == "__main__":
-    recordFace.liveCapture()
+    recordHolistic.liveCapture()
+
+
+    #This currently has a weird runtime error
+    #recordFace.liveCapture()
